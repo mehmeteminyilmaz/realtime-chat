@@ -1,3 +1,4 @@
+GÜNCELLENECEK
 # Realtime Chat App
 
 Gerçek zamanlı mesajlaşma uygulaması.
